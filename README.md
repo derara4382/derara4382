@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derara4382
-- 👀 I’m interested in ...project management, documentation writting, software development
-- 🌱 I’m currently learning ...cse
-- 💞️ I’m looking to collaborate on ... cs topics
+- 👀 I’m interested in project management, documentation writting, software development and consultation.
+- 🌱 I’m currently working as a Digital Officer @ CoopBank of Oromia
+- 💞️ I’m looking to collaborate on computer science related topics
 - 📫 How to reach me ...deraraketema2008@gmail.com
 
 <!---
